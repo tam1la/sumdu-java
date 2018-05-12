@@ -18,7 +18,7 @@ public class TitlesPanel extends JPanel implements ActionListener {
    private int shape;
 
 /**
- * panel initialization
+ * panel init
  */
 
    public TitlesPanel(int _shape) {
@@ -36,7 +36,7 @@ public class TitlesPanel extends JPanel implements ActionListener {
    }
 
 /**
- * draw engine
+ * code for drawing lines
  */
 
    private void doDrawing(Graphics g) {

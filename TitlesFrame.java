@@ -5,7 +5,7 @@ import javax.swing.SwingUtilities;
 public class TitlesFrame extends JFrame {
 
 /**
- * TitlesFrame initialization
+ * TitlesFrame init
  */
 
    public TitlesFrame() {
@@ -13,7 +13,7 @@ public class TitlesFrame extends JFrame {
    }
 
 /**
- * setting ui default options
+ * initUI defaults
  */
 
    private void initUI() {

@@ -16,7 +16,7 @@ public class ShapeFactory {
    public int height = 25;
 
 /**
- * ShapeFactory options
+ * ShapeFactory settings
  */
 
    public ShapeFactory(int shape_type) {
@@ -73,7 +73,7 @@ public class ShapeFactory {
    }
 
 /**
- * createStar engine
+ * createStar code
  */
 
    private static Shape createStar(int arms, Point center, double rOuter, double rInner) {
